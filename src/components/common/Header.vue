@@ -7,7 +7,7 @@
     </h1>
     <div class="menuWrap">
       <ul class="menu">
-        <li><router-link to="/board/list">게시판</router-link></li>
+        <li><router-link to="/board/List">게시판</router-link></li>
         <li><a href="javascript:;">메뉴2</a></li>
         <li><a href="javascript:;">메뉴3</a></li>
         <li><a href="javascript:;">메뉴4</a></li>
