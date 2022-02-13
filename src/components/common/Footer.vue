@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>copyRight fyzh99.tistory.com</p>
+    <p>copyRight JWooni</p>
   </footer>
 </template>
 
